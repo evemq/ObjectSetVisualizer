@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "OSVNestedNode",
+	"category" : "ThesisEve",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isMinimized"
+	],
+	"name" : "OSVLinkedListNode",
+	"type" : "normal"
+}

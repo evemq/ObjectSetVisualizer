@@ -1,0 +1,3 @@
+accessing
+rtViewPragmaName
+	^ #objectRTViewVisualization

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "OSVCompositeNode",
+	"category" : "ThesisEve",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rootRTElement",
+		"isMinimized",
+		"position"
+	],
+	"name" : "OSVRootNode",
+	"type" : "normal"
+}

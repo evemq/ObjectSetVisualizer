@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "OSVEdge",
+	"category" : "ThesisEve",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OSVVariableNameEdge",
+	"type" : "normal"
+}

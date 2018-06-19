@@ -1,0 +1,3 @@
+accessing
+cachedPos
+	^ cachedPos

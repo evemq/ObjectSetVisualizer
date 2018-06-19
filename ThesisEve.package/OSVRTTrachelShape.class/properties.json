@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTElement",
+	"category" : "ThesisEve",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OSVRTTrachelShape",
+	"type" : "normal"
+}

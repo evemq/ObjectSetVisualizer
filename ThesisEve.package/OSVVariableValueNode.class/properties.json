@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "OSVInteractiveNode",
+	"category" : "ThesisEve",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"variable",
+		"value"
+	],
+	"name" : "OSVVariableValueNode",
+	"type" : "normal"
+}

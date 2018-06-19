@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "OSVNestedNode",
+	"category" : "ThesisEve",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"label"
+	],
+	"name" : "OSVSubelementsLabelNode",
+	"type" : "normal"
+}

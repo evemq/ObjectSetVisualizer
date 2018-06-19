@@ -1,0 +1,1 @@
+Extension of RTGroup that allows us to set the model.

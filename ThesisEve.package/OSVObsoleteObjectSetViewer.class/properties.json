@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "EveMendozaQuiros 5/27/2017 10:01",
+	"super" : "Object",
+	"category" : "ThesisEve",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"view",
+		"objectNameShape",
+		"instanceVariableShape",
+		"boxShapeBuilder",
+		"boxShapeBuilderNotShared",
+		"layout",
+		"nodes",
+		"edgeBuilder",
+		"objectVisualizations",
+		"tempRemovedObjectVisualizations",
+		"menus"
+	],
+	"name" : "OSVObsoleteObjectSetViewer",
+	"type" : "normal"
+}

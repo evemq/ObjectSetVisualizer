@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "OSVMoldableNode",
+	"category" : "ThesisEve",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OSVMoldableLabelNode",
+	"type" : "normal"
+}

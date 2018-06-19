@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "ClaudioCorrodi 1/21/2018 11:20",
+	"super" : "RTGroup",
+	"category" : "ThesisEve",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"model"
+	],
+	"name" : "OSVRTGroup",
+	"type" : "normal"
+}
